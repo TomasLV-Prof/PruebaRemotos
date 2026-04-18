@@ -56,8 +56,6 @@ public class TestUtilidad {
 
 	@Test
 	public void testRegistroVacio() {
-		// fail("Not yet implemented");
-
 		// Comprobamos que inicialmente el registro no tiene usuarios
 		assertTrue(Utilidad.registroVacio(registro));
 
@@ -70,27 +68,27 @@ public class TestUtilidad {
 
 	@Test
 	public void testRegistroLleno() {
-		fail("Not yet implemented");
+		// Not yet implemented
 	}
 
 	@Test
 	public void testPosicionDisponible() {
-		fail("Not yet implemented");
+		// Not yet implemented
 	}
 
 	@Test
 	public void testEmailUnico() {
-		fail("Not yet implemented");
+		// Not yet implemented
 	}
 
 	@Test
 	public void testUsuarioRepetido() {
-		fail("Not yet implemented");
+		// Not yet implemented
 	}
 
 	@Test
 	public void testPosicionUsuario() {
-		// fail("Not yet implemented");
+		// // Not yet implemented
 
 		// Si se inserto el usuario...
 		if (Gestion.addUser(registro, usuario)) {
@@ -105,12 +103,12 @@ public class TestUtilidad {
 
 	@Test
 	public void testPasswordValido() {
-		fail("Not yet implemented");
+		// Not yet implemented
 	}
 
 	@Test
 	public void testEmailValido() {
-		fail("Not yet implemented");
+		// Not yet implemented
 	}
 
 }

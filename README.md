@@ -22,3 +22,5 @@ Mientras tanto, los archivos de salida compilados se generarán en la carpeta bi
 ## Gestión de dependencias
 
 La vista `JAVA PROJECTS` (PROYECTOS JAVA) le permite administrar sus dependencias. Puede encontrar más detalles [aquí](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+> Repositorio clonado desde:  [https://github.com/TomasLV-Prof/PruebaRemotos.git](https://github.com/TomasLV-Prof/PruebaRemotos.git)
